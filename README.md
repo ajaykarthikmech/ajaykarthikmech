@@ -184,7 +184,7 @@ class AjaykarthikM:
 | [**🖊️ EchoPen DARWS**](https://github.com/ajaykarthikmech) — Offline Assistive Robotic Writing System | ROS2 · STM32F407 · Raspberry Pi · Vosk · UART | Dual-layer speech-to-handwriting system for visually impaired users; S-curve motion profiles, micro-stepping CNC-style XY gantry, Gazebo simulation |
 | [**👁️ SAFARI**](https://github.com/ajaykarthikmech) — Vision-Guided Intelligent Tracking System | OpenCV · MediaPipe · Arduino UNO · Servo · Telegram API | Real-time closed-loop object tracking; ultrasonic sensing + remote Telegram notifications |
 | [**📡 IoT Industrial Monitoring**](https://github.com/ajaykarthikmech) | ESP8266 · MQTT · Dashboard | ESP8266-based platform monitoring temperature, voltage & current; threshold-based alerting with dashboard visualization |
-| [**🏭 Smart Conveyor Object Counter**]([[https://github.com/ajaykarthikmech](https://github.com/ajaykarthikmech/Smart-Conveyor-Object-Counter)]) | Python · OpenCV · Computer Vision | Industrial computer vision system for real-time conveyor product detection and counting, featuring HSV-based object segmentation, duplicate-count prevention, audio feedback, and automated Excel-based production logging |
+| [**🏭 Smart Conveyor Object Counter**]([https://github.com/ajaykarthikmech/Smart-Conveyor-Object-Counter]) | Python · OpenCV · Computer Vision | Industrial computer vision system for real-time conveyor product detection and counting, featuring HSV-based object segmentation, duplicate-count prevention, audio feedback, and automated Excel-based production logging |
 | [**🔒 AI Face Recognition Security**](https://github.com/ajaykarthikmech) | OpenCV · DeepFace · FaceNet · Telegram | Real-time face recognition with FaceNet embeddings; event-driven Telegram alerts optimized for lightweight CPU execution |
 | [**💧 Water Treatment Automation**](https://github.com/ajaykarthikmech) | PLC Ladder Logic · Arduino · SCADA | Industrial automation for full water treatment cycle: filtration, chlorination, process sequencing |
 | [**📝 JDBC Quiz Management System**](https://github.com/ajaykarthikmech) | Java · JDBC · MySQL | Full-stack quiz platform with authentication, SQL schema management, and dynamic result evaluation |
@@ -200,7 +200,7 @@ class AjaykarthikM:
 | 🎖️ | Achievement | Details |
 |:---:|:---|:---|
 | 🎓 | **IIT Madras Certification** | Next-Gen Robotics: IoT and AI (ESP) |
-| 🧑🏽‍💻 | **Cognizant** | Technoverse Hackathon 2026 |
+| 🧑🏽‍💻 | **Technical Hackathon** | Cognizant® Technoverse Hackathon 2026 |
 | 🏢 | **Siemens Certification** | AI-Powered Predictive Maintenance for Machine Uptime |
 | 🚗 | **EV Design Certification** | Electric Vehicle Design using MATLAB & Simulink |
 | ⚡ | **NIT Puducherry Workshop** | Electric Vehicle (EV) Workshop |
