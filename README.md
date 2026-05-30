@@ -110,19 +110,6 @@ class AjaykarthikM:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/ajaykarthikmech">
-    <img height="170" src="https://github-readme-stats-git-master-ajaykarthik-m-s-projects.vercel.app/api?username=ajaykarthikmech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/ajaykarthikmech">
-    <img height="170" src="https://github-readme-stats-git-master-ajaykarthik-m-s-projects.vercel.app/api/top-langs/?username=ajaykarthikmech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
-  </a>
-</div>
-
----
-
 ## 🔥 Streak Stats
 
 <div align="center">
@@ -231,7 +218,7 @@ class AjaykarthikM:
 
 ```
 🤖 ROS2 Advanced Navigation    →  Nav2 · SLAM · Autonomous Path Planning
-🧠 Deep Learning for Vision    →  TensorFlow Lite · Edge AI · Model Quantization
+🧠 Deep Learning and Machine Learning for Vision    →  TensorFlow Lite · Edge AI · Model Quantization
 🏭 IIoT Architectures          →  OPC-UA · Industry 4.0 · Digital Twin
 🔌 Embedded RTOS               →  FreeRTOS · Task Scheduling · Real-Time Control
 🌐 Cloud & Edge Computing      →  AWS IoT Core · MQTT Brokers · Edge Gateways
