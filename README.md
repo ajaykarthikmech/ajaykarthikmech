@@ -186,16 +186,16 @@ class AjaykarthikM:
 
 | 🎖️ | Achievement | Details |
 |:---:|:---|:---|
-| 🎓 | **IIT Madras Certification** | Next-Gen Robotics: IoT and AI (ESP) |
-| 🧑🏽‍💻 | **Technical Hackathon** | Cognizant® Technoverse Hackathon 2026 |
-| 🏢 | **Siemens Certification** | AI-Powered Predictive Maintenance for Machine Uptime |
-| 🚗 | **EV Design Certification** | Electric Vehicle Design using MATLAB & Simulink |
-| ⚡ | **NIT Puducherry Workshop** | Electric Vehicle (EV) Workshop |
-| 🧠 | **NPTEL Course** | Introduction to Cognitive Psychology |
-| 👁️ | **OpenCV Workshop** | Puducherry Technological University |
-| 📝 | **IEEE-Style Publication** | *"Emerging Technologies in Mechatronics: From Concept to Practical Implementation"* — National-level university symposium |
-| 🤖 | **Event Coordinator** | Robotics Club, Puducherry Technological University |
-| 🎤 | **Workshop Facilitator** | Conducted IoT, Embedded Systems & Real-Time Hardware Integration workshops for engineering students |
+| 🎓 | **IIT Madras Certification** | Next-Gen Robotics: IoT, Artificial Intelligence, Embedded Systems & Robotics Applications (ESP) |
+| 🧑🏽‍💻 | **National-Level Hackathon Participant** | Cognizant® Technoverse Hackathon 2026 – Software Engineering & Technology Innovation Challenge |
+| 🏢 | **Siemens Certification** | AI-Powered Predictive Maintenance, Industrial Analytics, Equipment Reliability & Industry 4.0 Applications |
+| 🚗 | **Electric Vehicle Design Certification** | EElectric Vehicle Design using MATLAB & Simulink for Control Systems and Vehicle Modeling |
+| ⚡ | **NIT Puducherry Workshop** | Electric Vehicle (EV) Systems, Power Electronics & Sustainable Mobility Technologies |
+| 🧠 | **IIT Kanpur (NPTEL)** | Introduction to Cognitive Psychology – Human Factors, Cognitive Systems & Decision-Making Fundamentals |
+| 👁️ | **OpenCV Workshop** | Computer Vision, Image Processing & Machine Vision Applications – Puducherry Technological University |
+| 📝 | **IEEE-Style Publication** | Emerging Technologies in Mechatronics: From Concept to Practical Implementation – Presented at a National-Level Technical Symposium |
+| 🤖 | **Event Coordinator** | Robotics Club, Puducherry Technological University – Technical Event Planning, Team Coordination & Engineering Outreach |
+| 🎤 | **Workshop Facilitator** | Conducted Workshops on IoT, Embedded Systems, Real-Time Hardware Integration, Sensors, Automation & Engineering Prototyping |
 
 </div>
 
